@@ -5,6 +5,8 @@ var express=require("express");
 var app=express();
 var hbs=require("hbs");
 
+var port=process.env.PORT||3000;
+
 //Views ka configuration
 app.set("views",path.join(__dirname,"../templates"));
 app.set("view engine","hbs");
@@ -62,6 +64,6 @@ app.get("*",(req,res)=>{
 res.render("views/error",{msg:"Page not found",title:"Error 404"});
 });
 
-app.listen(3000,()=>{
+app.listen(port,()=>{
     console.log("Server started on port 3000");
 });

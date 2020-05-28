@@ -13,7 +13,7 @@ var msg4=document.querySelector("#msg4")
 form.addEventListener("submit",(e)=>{
     e.preventDefault();
     var text=input.value;
-    fetch("http://localhost:3000/weather?address="+text).then((res)=>{
+    fetch("/weather?address="+text).then((res)=>{
     res.json().then((data)=>{
         if(data.err){
             msg1.textContent=data.err;
