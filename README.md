@@ -13,15 +13,16 @@ http://api.weatherstack.com<br>
 <pre>
 Try It - <br>
 Currently Simple FrontEnd ... Powerfull Fizzy Searching🔥🔥🔥 <br>
-<p>
+
 eg of Fizzy Searches -->  India ✔️       Inedia ✔️       Inndia✔️ <br>
                           That is Most Probable Outcome is automatically Selected even with WRONG INPUT TEXT!<br>
                           Las Vegas ✔️   Las Vaegas ✔️   Las Vegaas ✔️<br>
-                         <br>
-  </p>
- <br>
- </pre>
---->  Link : https://arpitmanit-weather-app.herokuapp.com/<br>
+ </pre>                         
+  
+ 
+<pre>
+--->  Link : https://arpitmanit-weather-app.herokuapp.com/
+</pre>
 <br>
 /*<br>
 Before Entering Wrong Location Please make sure that the Wrong Location DOES NOT actually Exist...CAUSE MOSTLY IT DOES!!!😄<br>
