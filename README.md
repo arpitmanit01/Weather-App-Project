@@ -18,7 +18,7 @@ Currently Simple FrontEnd ...Fizzy Searching🔥🔥🔥 <br>
 
 eg of Fizzy Searches -->  India ✔️       Inedia ✔️       Inndia✔️ <br>
                           That is Most Probable Outcome is automatically Selected even with WRONG INPUT TEXT!<br>
-                          Madya Pradesh ✔️   Madya Pradesh ✔️  <br>
+                          Madhya Pradesh ✔️   Madya Pradesh ✔️  <br>
                           New York ✔️        New Yorek ✔️<br>
                           Maharashtra ✔️     Maharshtra ✔️   <br>
                           Las Vegas ✔️       Las Vegaas ✔️<br>
