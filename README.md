@@ -20,12 +20,12 @@ eg of Fizzy Searches -->  India ✔️       Inedia ✔️       Inndia✔️ <b
  </pre>                         
   
  <strong>
-<pre>
---->  Link :
-</pre>
- https://arpitmanit-weather-app.herokuapp.com/
+
+--->  Link : https://arpitmanit-weather-app.herokuapp.com/
   </strong>
 <br>
+<br>
 /*<br>
-Before Entering Wrong Location Please make sure that the Wrong Location DOES NOT actually Exist...CAUSE MOSTLY IT DOES!!!😄<br>
+Before Entering <strong>Wrong Location</strong> Please <strong>MAKE SURE</strong> that the Wrong Location DOES NOT actually <strong>EXIST</strong>...<strong>CAUSE MOSTLY IT DOES !!!</strong>😄<br>
 */<br>
+
