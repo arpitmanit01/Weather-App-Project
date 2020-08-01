@@ -14,7 +14,7 @@ http://api.weatherstack.com<br>
 Try It - <br>
 Currently Simple FrontEnd ... Powerfull Fizzy Searching🔥🔥🔥 <br>
 
-eg of Fizzy Searches -->  India ✔️       Inedia ✔️       Inedia✔️ <br>
+eg of Fizzy Searches -->  India ✔️       Inedia ✔️       Inndia✔️ <br>
                           That is Most Probable Outcome is automatically Selected even with WRONG INPUT TEXT!<br>
                           Las Vegas ✔️   Las Vaegas ✔️   Las Vegaas ✔️<br>
                          <br>
