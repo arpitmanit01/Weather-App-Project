@@ -7,6 +7,8 @@ APIs - <br>
 https://api.mapbox.com<br>
 http://api.weatherstack.com<br>
 
+TECH USED ->HTML,CSS,JavaScript,Bootstrap,HandleBars,NodeJS,Express Framework and Request Module
+
 /UPDATES/<br>
 ---> Added Fizzy Searching via API.<br>
 
