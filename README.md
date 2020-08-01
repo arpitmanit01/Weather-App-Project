@@ -10,7 +10,7 @@ http://api.weatherstack.com<br>
 /UPDATES/<br>
 ---> Added Fizzy Searching via API.<br>
 
-
+<pre>
 Try It - <br>
 Currently Simple FrontEnd ... Powerfull Fizzy Searching🔥🔥🔥 <br>
 <p>
@@ -20,6 +20,7 @@ eg of Fizzy Searches -->  India ✔️       Inedia ✔️       Inndia✔️ <b
                          <br>
   </p>
  <br>
+ </pre>
 --->  Link : https://arpitmanit-weather-app.herokuapp.com/<br>
 <br>
 /*<br>
