@@ -19,10 +19,12 @@ eg of Fizzy Searches -->  India ✔️       Inedia ✔️       Inndia✔️ <b
                           Las Vegas ✔️   Las Vaegas ✔️   Las Vegaas ✔️<br>
  </pre>                         
   
- 
+ <strong>
 <pre>
---->  Link : https://arpitmanit-weather-app.herokuapp.com/
+--->  Link :
 </pre>
+ https://arpitmanit-weather-app.herokuapp.com/
+  </strong>
 <br>
 /*<br>
 Before Entering Wrong Location Please make sure that the Wrong Location DOES NOT actually Exist...CAUSE MOSTLY IT DOES!!!😄<br>
